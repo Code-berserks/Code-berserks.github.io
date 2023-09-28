@@ -1,8 +1,105 @@
 {
-    "id": "6460d298b774fc0e9c820ded",
-    "name": "Dilip",
-    "age": "25",
-    "mailId": "dilikum603@gmail.com",
-    "mobileNumber": "985465652"
-    "Location" : "Chennai"
+  "id": "6460d298b774fc0e9c820ded",
+  "name": "Dilip Kumar",
+  "age": "25",
+  "mailId": "dilipkumar25199725@gmail.com",
+  "mobileNumber": "9080154143",
+  "Location": "Chennai",
+  "Date of Birth": "25/December/1997",
+  "Address": "No.4, sargunam street, kamaraj nagar,avadi Chennai 600071",
+  "Skills": [
+    "Java",
+    "Spring Boot",
+    "MongoDB",
+    "AWS lambda",
+    "ActiveMQ",
+    "Git/GitHub"
+  ],
+  "Education": [
+    {
+      "Study": "B.E Electronics and instrumentation",
+      "Institute": "Jeppiaar Engineering College",
+      "passedOut": "2015-2019"
+    },
+    {
+      "Study": "Higher secondary school",
+      "Institute": "DAV matriculation higher secondary school",
+      "passedOut": "2014-2015"
+    },
+    {
+      "Study": "High school",
+      "Institute": "K.V.H.V.F Avadi",
+      "passedOut": "2012-2013"
+    }
+  ],
+  "Language": [
+    "English",
+    "Tamil",
+    "Hindi"
+  ],
+  "Professional_Traits": [
+    "Strong problem-solving",
+    "Analytical skills",
+    "Critical thinking",
+    "Attention to Detail",
+    "Collaboration"
+  ],
+  "profile": "To Analyse ,develop, as well as implement RESTful services and APIs , Troubleshoot issues and solve problems, identify potential process improvement areas and to Deliver quality results on time with minimal supervision",
+  "Work Experiance": [
+    {
+      "companyName": "DXC Technology",
+      "role": "Associate professional product developer",
+      "period": "April 2022 - Present",
+      "roleDescription": [
+        "Build RESTful API that served data to Angular Front-end based on dynamically chosen user inputs with spring boot Application.",
+        "Have implemented web-service calls from API to API.",
+        "Collaborated with a team of 2 using the agile methodology",
+        "Worked on AWS Lambda and implemented 2 lambda calls for AWS cloudplatform",
+        "Implemented Apache ActiveMQ for On-premisis platform.",
+        "Worked on Amazon SES for email Functionality.",
+        "Experience in handling and configuration of NoSQL database MongoDB.",
+        "Have Experience in Tools like ROBO-3T, Postman API, Portainer, Jenkins",
+        "Basic knowledge on Angular Frontend Development."
+      ]
+    },
+    {
+      "companyName": "Flex India",
+      "role": "Senior Analyst - procurement",
+      "period": "April 2021 - April 2022",
+      "roleDescription": [
+        "RFQ: Identifying new suppliers and sending RFQ’s to get information’s such as MOQ,SPQ, Price, lead time etc., Negotiate with supplier to achieve best price and align with proper agreement.",
+        "Assigning sourcing % to supplier who provides best price, short lead time with high Quality.",
+        "PO Creation (PR to PO): Review of weekly MRP signal and place purchase orders with suppliers to support production schedules and new product launches.",
+        "PO maintenance – Pull-ins, cancellations, push-out for inventory turn- over withfreight forwarder as per MRP recommendation signals."
+      ]
+    },
+    {
+      "companyName": "TUBE PRODUCTS OF INDIA",
+      "role": "Graduate Trainee",
+      "period": "October 2020 - April 2021",
+      "roleDescription": [
+        "I have been in New product development as Procurement Trainee in Tube products of India",
+        "Raising of Purchase request and following of purchase throughout the process.",
+        "Creating of the item code for products for which the purchase needs to be done.",
+        "Clearing of the invoice with pre-Scan validation and hand-over to finance department.",
+        "Completing the MRC process and hand-over the purchased Item to the material stores.",
+        "Being in complete communication with the vendors and Suppliers to fulfill the suppliers and vendor’s claims.",
+        "Maintaining Documents regarding the claims and status of the payments throughout the process."
+      ]
+    },
+    {
+      "companyName": "Orchid pharma",
+      "role": "Graduate Apprentice",
+      "period": "June 2019 - June 2020",
+      "roleDescription": [
+        "Field maintenance, troubleshooting and servicing of the field instruments based on flow , temperature, level, pressure.",
+        "Gained knowledge on pneumatic actuators, solenoid coils and valves.",
+        "Knowledge on Control valves, I/P converters, positioners.",
+        "Worked on Transmitters (Rosemount, E&H, and Yokogawa) and loop power Indicators",
+        "Basic knowledge on Hart communication",
+        "Basic knowledge on Plc Panel Wiring, Relays.",
+        "Basic knowledge on Tank nitrogen blanketing process using PRC, PCV, BPRV."
+      ]
+    }
+  ]
 }
