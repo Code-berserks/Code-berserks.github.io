@@ -5,7 +5,7 @@
   "mailId": "dilipkumar25199725@gmail.com",
   "mobileNumber": "9080154143",
   "Location": "Chennai",
-  "Date of Birth": "25/December/1997",
+  "DateOfBirth": "25/December/1997",
   "Address": "No.4, sargunam street, kamaraj nagar,avadi Chennai 600071",
   "Skills": [
     "Java",
@@ -45,7 +45,7 @@
     "Collaboration"
   ],
   "profile": "To Analyse ,develop, as well as implement RESTful services and APIs , Troubleshoot issues and solve problems, identify potential process improvement areas and to Deliver quality results on time with minimal supervision",
-  "Work Experiance": [
+  "workExperiance": [
     {
       "companyName": "DXC Technology",
       "role": "Associate professional product developer",
